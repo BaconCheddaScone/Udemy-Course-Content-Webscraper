@@ -1,6 +1,5 @@
 from bs4 import BeautifulSoup
 import streamlit as st
-import requests, lxml, os
 
 # Resource for markdown in Streamlit: https://pmbaumgartner.github.io/streamlitopedia/markdown.html
 # example url: https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/learn/lecture/10777008?start=180#overview
